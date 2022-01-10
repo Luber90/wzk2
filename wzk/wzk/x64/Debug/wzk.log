@@ -1,0 +1,12 @@
+﻿  wzk.cpp
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(109,13): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(110,13): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(156,42): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(158,34): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(158,31): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Luber.000\source\repos\wzk\wzk\wzk.cpp(171,34): warning C4244: 'argument': conversion from '__int64' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  wzk.vcxproj -> C:\Users\Luber.000\source\repos\wzk\x64\Debug\wzk.exe
